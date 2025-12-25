@@ -146,8 +146,7 @@ and Ubiquitous Technologies, vol. 2, no. 1, pp. 1–21, 2018.
 
 
 
-
-\#### \*\*License\*\*
+#### **License**
 
 
 
