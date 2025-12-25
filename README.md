@@ -79,7 +79,7 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-!\[cnn](Images/cnn.png)
+![cnn](Images/cnn.png)
 
 
 
@@ -99,7 +99,7 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-!\[results](Images/final\\\_results.png)
+![results](Images/final\_results.png)
 
 
 
