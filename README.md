@@ -37,7 +37,7 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-![demo](Images/girrafe.png)
+![demo](Images/girrafe.jpg)
 
 
 
