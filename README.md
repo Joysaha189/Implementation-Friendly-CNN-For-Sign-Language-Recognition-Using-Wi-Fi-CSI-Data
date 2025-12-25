@@ -95,7 +95,7 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-\#### Project Status
+#### Project Status
 
 
 
