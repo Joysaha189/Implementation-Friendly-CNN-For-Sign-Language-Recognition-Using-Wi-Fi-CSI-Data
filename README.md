@@ -137,11 +137,7 @@ Bangladesh University of Engineering and Technology (BUET)
 
 
 
-Y. Ma, G. Zhou, S. Wang, H. Zhao, and W. Jung, “Signfi: Sign language recog
-
-nition using wifi,” Proceedings of the ACM on Interactive, Mobile, Wearable 
-
-and Ubiquitous Technologies, vol. 2, no. 1, pp. 1–21, 2018.
+Y. Ma, G. Zhou, S. Wang, H. Zhao, and W. Jung, “Signfi: Sign language recognition using wifi,” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol. 2, no. 1, pp. 1–21, 2018.
 
 
 
