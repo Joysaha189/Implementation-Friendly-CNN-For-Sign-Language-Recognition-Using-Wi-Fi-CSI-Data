@@ -26,7 +26,7 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 * **Average Accuracy:**
- &nbsp; 97.64% (Lab)
+ &nbsp; 97.64% (Lab),
  &nbsp;  98.85% (Home)
 * Evaluated with **5 users**, achieving **84.63% accuracy** on 7,500 samples across 150 gestures
 * Performance improves with fewer gesture classes
@@ -41,19 +41,19 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-\* Preprocessed Home Downlink CSI data is provided in the `Data/` folder
+* Preprocessed Home Downlink CSI data is provided in the `Data/` folder
 
-\* CSI data format: `(200, 30, 3, n)`
+* CSI data format: `(200, 30, 3, n)`
 
 
 
-&nbsp; \* 200 time samples
+&nbsp; * 200 time samples
 
-&nbsp; \* 30 subcarriers
+&nbsp; * 30 subcarriers
 
-&nbsp; \* 3 antennas
+&nbsp; * 3 antennas
 
-&nbsp; \* `n` samples
+&nbsp; * `n` samples
 
 
 
@@ -61,17 +61,17 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-\* `Data/` – Subset of Preprocessed Home Downlink CSI data
+* `Data/` – Subset of Preprocessed Home Downlink CSI data
 
-\* `Code/` – CSI preprocessing pipeline (filtering, correction, Final CNN model and training scripts
+* `Code/` – CSI preprocessing pipeline (filtering, correction, Final CNN model and training scripts
 
-\* `Deliverables/` –
+* `Deliverables/` –
 
 
 
-&nbsp; \* Main research paper
+&nbsp; * Main research paper
 
-&nbsp; \* Reference paper used for preprocessing
+&nbsp; * Reference paper used for preprocessing
 
 
 
@@ -83,11 +83,11 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-\* **1-layer CNN architecture**
+* **1-layer CNN architecture**
 
-\* Includes: Conv2D, Batch Normalization, Activation, Average Pooling, Dropout, Softmax
+* Includes: Conv2D, Batch Normalization, Activation, Average Pooling, Dropout, Softmax
 
-\* Optimized for simplicity while maintaining high accuracy
+* Optimized for simplicity while maintaining high accuracy
 
 
 
