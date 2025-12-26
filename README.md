@@ -26,8 +26,8 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 * **Average Accuracy:**
-* &nbsp; \* 97.64% (Lab)
-* &nbsp; \* 98.85% (Home)
+* &nbsp; 97.64% (Lab)
+* &nbsp;  98.85% (Home)
 * Evaluated with **5 users**, achieving **84.63% accuracy** on 7,500 samples across 150 gestures
 * Performance improves with fewer gesture classes
 
