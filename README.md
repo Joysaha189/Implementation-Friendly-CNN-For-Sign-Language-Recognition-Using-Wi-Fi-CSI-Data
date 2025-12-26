@@ -137,8 +137,6 @@ Bangladesh University of Engineering and Technology (BUET)
 
 
 1. Y. Ma, G. Zhou, S. Wang, H. Zhao, and W. Jung, “Signfi: Sign language recognition using wifi,” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, vol. 2, no. 1, pp. 1–21, 2018.
-
-
 2.T. F. Sanam and H. Godrich, "FuseLoc: A CCA Based Information Fusion for Indoor Localization Using CSI Phase and Amplitude of Wifi Signals," ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, 2019, pp. 7565-7569, doi: 10.1109/ICASSP.2019.8683316. 
 
 
