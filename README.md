@@ -85,16 +85,13 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 * Optimized for simplicity while maintaining high accuracy
 
 
-
-
-
-
-
-#### Project Status
-
-
-
 ![results](Images/final\_results.png)
+
+
+
+
+###### **Project Status**
+
 
 
 
