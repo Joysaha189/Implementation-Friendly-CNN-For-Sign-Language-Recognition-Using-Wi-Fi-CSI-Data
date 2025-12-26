@@ -47,13 +47,13 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-&nbsp; * 200 time samples
+ * 200 time samples
 
-&nbsp; * 30 subcarriers
+* 30 subcarriers
 
-&nbsp; * 3 antennas
+ * 3 antennas
 
-&nbsp; * `n` samples
+ * `n` samples
 
 
 
