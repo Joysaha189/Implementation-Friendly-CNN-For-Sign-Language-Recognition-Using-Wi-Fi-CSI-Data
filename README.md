@@ -2,10 +2,6 @@
 
 
 
-##### **SignFi: WiFi-Based Sign Language Recognition Using CSI and CNN**
-
-
-
 This repository presents an ***implementation-friendly CNN-based system*** for sign language recognition using **Wi-Fi Channel State Information (CSI)**. Inspired by **SignFi**, the project leverages wireless signals and deep learning to enable accurate, privacy-preserving gesture recognition without cameras or wearable devices. 
 
 
