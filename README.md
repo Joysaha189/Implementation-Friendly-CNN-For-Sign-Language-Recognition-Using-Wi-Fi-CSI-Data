@@ -69,9 +69,8 @@ This repository presents an ***implementation-friendly CNN-based system*** for s
 
 
 
-&nbsp; * Main research paper
-
-&nbsp; * Reference paper used for preprocessing
+ * Main research paper
+ * Reference paper used for preprocessing
 
 
 
