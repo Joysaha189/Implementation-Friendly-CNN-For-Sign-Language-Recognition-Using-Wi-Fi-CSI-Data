@@ -85,6 +85,7 @@ This work is implemented using the dataset and methodology provided in the **Sig
 ## Author
 
 **Joy Saha**  
+Department of Electrical and Electronic Engineering\
 Bangladesh University of Engineering and Technology (BUET)
 
 ---
